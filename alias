@@ -89,3 +89,5 @@ alias notes='vim ~/notes.txt'
 alias speedtest=~/speedtest
 alias utime='sudo ntpdate pool.ntp.org'
 alias sshlogin='ssh -i ~/sshkey/saket.txt saket@cseproj83.cse.iitk.ac.in'
+
+alias neofetch='neofetch | lolcat --freq=0.2'

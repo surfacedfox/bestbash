@@ -1,4 +1,5 @@
-source ~/.bash/colors
-source ~/.bash/settings
-source ~/.bash/alias
-source ~/.bash/functions
+source ~/Documents/GitHub/bestbash/colors
+source ~/Documents/GitHub/bestbash/settings
+source ~/Documents/GitHub/bestbash/alias
+source ~/Documents/GitHub/bestbash/functions
+neofetch

@@ -43,6 +43,6 @@ OS, Bash, Bash history, Completion, Config, Ruby, NVM, VTE, ANDROID SDK, EDITOR 
   #backup old .bashrc and .bashrc related files
   mv .bashrc .bashrc.bak
   #create symlink for .bashrc
-  ln -s ~/.bash/init ~/.bashrc
+  ln -s ~/Documents/GitHub/bestbash/init ~/.bashrc
   #ALL DONE!
  ```
